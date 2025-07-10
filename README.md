@@ -1,6 +1,6 @@
 # Nusanmart
 
-![Nusanmart Logo](https://kikukcode.com/nusanmart-logo.png)
+
 
 ## Deskripsi Proyek
 
