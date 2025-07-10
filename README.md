@@ -1,5 +1,5 @@
-# Nusanmart
-
+# Nusanmart (Nusantara Mart)
+E-comerce nya umkm (draft)
 
 
 ## Deskripsi Proyek
